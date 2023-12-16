@@ -16,4 +16,4 @@ video_gen: AI APIs for dynamic content generation
 Installation
 Clone the repo
 
-git clone https://github.com/anshss/constellation
+git clone https://github.com/D1ANAND/CHAINLINK.git
